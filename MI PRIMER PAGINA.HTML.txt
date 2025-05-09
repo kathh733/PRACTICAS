@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<TITLE>Mi primer pagina</TITLE>
+</HEAD>
+
+<BODY>
+<CENTER><H1>Mi Primera pagina</H1></CENTER>
+<P>Esta es mi primera pagina (chispas).Por el momento no se tendra, pero dentro de poco pondre aqui muchas cosas interesantes.
+</BODY>
+</HTML>
